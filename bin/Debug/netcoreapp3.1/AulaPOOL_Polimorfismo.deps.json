@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AulaPOOL_Polimorfismo/1.0.0": {
+        "runtime": {
+          "AulaPOOL_Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPOOL_Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
